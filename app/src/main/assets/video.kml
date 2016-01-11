@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>6月12日红石峡游览线路</name>
+	<open>1</open>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2.5</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>红石峡入口</name>
+		<description>2014-06-12 06:51:50
+Start point of 008_0612.KML</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point id="start">
+			<coordinates>113.3592096863366,35.42888678918861,333.2</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>008_0612.KML</name>
+		<description>Route of 008_0612.KML</description>
+		<styleUrl>#msn_ylw-pushpin0</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				113.3591953778271,35.42888935306445,384.8 113.3591058509564,35.42894378153923,386.7 113.3591053786561,35.42903573524161,387.1 113.3590619908968,35.42911747256756,390.6 113.3590339877857,35.42924041978102,390.0000000000001
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark>
+		<name>红石峡出口换乘站</name>
+		<description>2014-06-12 09:38:46
+End point of 008_0612.KML</description>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point id="end">
+			<coordinates>113.357433,35.433903,432.8</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>子房湖岸边</name>
+		<Camera>
+			<longitude>113.3550891170583</longitude>
+			<latitude>35.43494757056103</latitude>
+			<altitude>232.4967837146984</altitude>
+			<heading>69.50286407698802</heading>
+			<tilt>1.184050226760398</tilt>
+			<roll>84.13582402762468</roll>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</Camera>
+		<styleUrl>#msn_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>113.3547747141739,35.43494218077459,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
