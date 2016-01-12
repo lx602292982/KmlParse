@@ -120,7 +120,7 @@ public class KmlReader {
 
         protected void processDocument(XmlPullParser xpp)
                 throws XmlPullParserException, IOException {
-            placemarkList = new ArrayList<Placemark>();
+            placemarkList = new ArrayList<>();
             int eventType = xpp.getEventType();
             String text = null;
             do {

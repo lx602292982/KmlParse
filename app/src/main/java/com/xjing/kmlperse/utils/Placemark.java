@@ -64,6 +64,9 @@ public class Placemark {
         this.name = name;
     }
 
+    public List<Point> getPoint() {
+        return point;
+    }
 
     public void setPoint(List<Point> point) {
         this.point = point;

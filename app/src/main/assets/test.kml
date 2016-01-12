@@ -2,11 +2,265 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <Placemark>
-  <name>New York City</name>
-  <description>New York City</description>
-  <Point>
-    <coordinates>-74.006393,40.714172,0</coordinates>
-  </Point>
+<name>
+Sun Jan 02 08:12:21 2011 S=0.97 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Start
+</styleUrl>
+<Point>
+<coordinates>
+103.9508133,30.5665703,482.52
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:15:40 2011 S=8.34 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9505615,30.5661678,493.38
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:17:43 2011 S=12.23 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9500351,30.5661259,492.36
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:17:58 2011 S=15.17 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9495392,30.5662937,498.18
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:18:09 2011 S=18.70 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9490204,30.5664864,502.43
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:18:20 2011 S=17.79 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9484940,30.5666885,501.83
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:18:30 2011 S=18.81 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9480057,30.5668488,498.77
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:18:40 2011 S=18.51 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9474640,30.5670052,496.02
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:18:50 2011 S=18.90 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9469528,30.5671501,492.32
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 09:19:00 2011 S=18.23 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+103.9464493,30.5673084,489.58
+</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>
+Sun Jan 02 11:11:41 2011 S=709.75 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.4190750,29.6404171,8938.00
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:11:47 2011 S=708.03 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.4090118,29.6343784,8904.00
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:11:53 2011 S=706.36 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3990173,29.6283321,8872.75
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:11:59 2011 S=705.13 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3890533,29.6222858,8842.25
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:05 2011 S=707.86 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3790283,29.6162586,8806.50
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:11 2011 S=712.42 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3689499,29.6102295,8764.50
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:17 2011 S=715.23 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3588486,29.6041393,8728.75
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:23 2011 S=717.75 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3486938,29.5980473,8682.50
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:29 2011 S=717.39 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3384857,29.5919914,8634.50
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>
+Sun Jan 02 11:12:34 2011 S=718.58 Km/hr
+</name>
+<styleUrl>
+#styleMap_TLP_Normal
+</styleUrl>
+<Point>
+<coordinates>
+92.3299866,29.5868931,8607.25
+</coordinates>
+</Point>
 </Placemark>
 </Document>
 </kml>
